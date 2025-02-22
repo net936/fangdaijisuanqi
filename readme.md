@@ -4,7 +4,7 @@
 
 ## 预览地址
 
-https://fangdaijisuanqi.vip
+https://fangdai.gitapp.cn
 
 ## 关键源码
 
